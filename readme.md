@@ -10,14 +10,11 @@ Back End involves more technical, database, and other behind the scenes operatio
 
 ### Node.js Understanding
 
-Node.js is a Javascript runtime environment, allowing server code to be written in Javascript, while also helping development in a few ways such as...
-
-- Scalability
-- NPM (Node Package Manager) for easy downloading of libraries.
+Node.js is a Javascript runtime environment, allowing server code to be written in Javascript, while also helping development in a few ways such as managing libraries.
 
 ### Version Control, Git, & GitHUb
 
-Git is a version control system allowing for contributions from multiple people.
+Git is a version control system allowing for contributions from multiple people as well as being a way to share and distrubute your project's code online.
 
 ### Markdown & Documentation
 
